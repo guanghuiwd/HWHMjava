@@ -1,1 +1,8 @@
-
+IDEA提示好
+好用的快捷键，直接用IDEA    Templates代码模板
+精准搜索
+Ctrl+F 代码格式整理，代码格式化就是代码很乱时使用idea进行代码有规范的现实
+File | Settings | Editor | General | Code Completion（代码提示）
+psvm sout 都是快捷键
+ctrl + d 复制本行
+F7 进到嵌套方法内部  F8 不进嵌套  F9断点跳跃
