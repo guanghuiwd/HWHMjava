@@ -25,3 +25,6 @@ s += 20 比较适合这个方式 隐含强制类型转换
 ++i 先加  i++ 后加    单独使用好 
 a == b 判断值   误写=时，把j值赋值给了i，然后输出了i
 &   |或    ^异或
+短路与 &&  短路或 ||
+import java.util.Scanner;Scanner sc = new Scanner(System.in);int x = sc.nextInt();System.out.println(x);
+import在package下面。 复制：CTRL+D
