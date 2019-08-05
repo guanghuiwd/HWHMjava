@@ -28,9 +28,11 @@ a == b 判断值   误写=时，把j值赋值给了i，然后输出了i
 短路与 &&  短路或 ||
 import java.util.Scanner;Scanner sc = new Scanner(System.in);int x = sc.nextInt();System.out.println(x);
 import在package下面。 复制：CTRL+ D
-案例 需求 分析步骤
+做题！！！案例 需求 分析步骤
 流程控制    （python java 前端） 
 if true执行 if /else if/ else
 数据测试：正确数据 边界数据 错误数据
 switch（表达式） case 值1： 语句体1；break; ... default: 语句体n+1；break;
 不写break时，case穿透，向下执行。
+for(int i=1;i<=5;i++){  //循环结构    可用于统计
+while循环和for循环可以互相转换。  while灵活
