@@ -32,3 +32,5 @@ import在package下面。 复制：CTRL+ D
 流程控制    （python java 前端） 
 if true执行 if /else if/ else
 数据测试：正确数据 边界数据 错误数据
+switch（表达式） case 值1： 语句体1；break; ... default: 语句体n+1；break;
+不写break时，case穿透，向下执行。
