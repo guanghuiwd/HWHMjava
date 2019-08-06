@@ -1,0 +1,11 @@
+IDEA 集成环境：IDE，综合开发工具
+src：src是source的缩写，这里是源文件的意思。 iml是配置文件。
+先java文件，后class文件但不在一个生成的地方。
+创建空项目；创新新模块；模块下创建包；包下新建类（HW）；类中写代码。idea中执行程序
+psvm，回车。sout，回车。
+内容辅助键：CTRL alt space
+快捷键对IDEA很重要！：
+注释：选中它！ + CTRL + /  多行，CTRL + shift + / 再来一次就是取消
+格式化：CTRL alt L （就是给各种地方加空格，看起来好看
+IDEA中删除模块，要在文件夹自己删除模块
+导入模块：直接import，然后next和ok就好。setup就好。
