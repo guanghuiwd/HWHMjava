@@ -26,7 +26,7 @@ s += 20 比较适合这个方式 隐含强制类型转换
 a == b 判断值   误写=时，把j值赋值给了i，然后输出了i
 &   |或    ^异或
 短路与 &&  短路或 ||
-import java.util.Scanner;Scanner sc = new Scanner(System.in);int x = sc.nextInt();System.out.println(x);
+import java.util.Scanner;Scanner sc = new Scanner(System.in);int x = sc.nextInt();System.out.println(x);//sc最好不改
 import在package下面。 复制：CTRL+ D
 做题！！！案例 需求 分析步骤
 流程控制    （python java 前端） 
@@ -36,3 +36,8 @@ switch（表达式） case 值1： 语句体1；break; ... default: 语句体n+1
 不写break时，case穿透，向下执行。
 for(int i=1;i<=5;i++){  //循环结构    可用于统计
 while循环和for循环可以互相转换。  while灵活
+do{}while(); 分号重要。
+对for循环，定义的i在for循环里面，出来就没有了.!在（）里面定义外面没有。
+ctrl + C 强制结束死循环。while死循环是最常用的。
+基于条件控制。continue 跳过某次循环。break 结束整个循环
+random：import java.util.Random;Random r = new Random();int num = r.nextInt(100);//r最好不改
