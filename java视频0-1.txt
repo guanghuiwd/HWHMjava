@@ -40,4 +40,4 @@ do{}while(); 分号重要。
 对for循环，定义的i在for循环里面，出来就没有了.!在（）里面定义外面没有。
 ctrl + C 强制结束死循环。while死循环是最常用的。
 基于条件控制。continue 跳过某次循环。break 结束整个循环
-random：import java.util.Random;Random r = new Random();int num = r.nextInt(100);//r最好不改
+random：import java.util.Random;Random r = new Random();int num = r.nextInt(100);//r最好不改。包括0不包括100/+1后1~100.
