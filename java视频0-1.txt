@@ -7,14 +7,11 @@
 常量：  
 字符‘’ 字符串“ ”  
 空常量不能直接输出
-
 变量：
 变量未赋值不能使用，long加l float不兼容类型我们加f
-
 标识符：
 由数字 字母 下划线_ 和 美元符$ 组成
 小驼峰命名法 方法/变量  大驼峰命名法： 类
-
 类型转换：
 自动类型转换 char 到 int    强制类型转换。格式
 运算符： 
@@ -26,9 +23,12 @@ s += 20 比较适合这个方式 隐含强制类型转换
 a == b 判断值   误写=时，把j值赋值给了i，然后输出了i
 &   |或    ^异或
 短路与 &&  短路或 ||
+
 import java.util.Scanner;Scanner sc = new Scanner(System.in);int x = sc.nextInt();System.out.println(x);//sc最好不改
 import在package下面。 复制：CTRL+ D
+导包，创建对象，接收数据。
 做题！！！案例 需求 分析步骤
+
 流程控制    （python java 前端） 
 if true执行 if /else if/ else
 数据测试：正确数据 边界数据 错误数据
