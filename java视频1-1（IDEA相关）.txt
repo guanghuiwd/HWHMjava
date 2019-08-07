@@ -9,10 +9,16 @@ src：src是source的缩写，这里是源文件的意思。 iml是配置文件�
 IDEA中删除模块，要在文件夹自己删除模块
 导入模块：直接import，然后next和ok就好。setup就好。
 
-psvm，回车。sout，回车。
-还有更多函数补全快捷键：fori（循环）/ifn /inn /soutp=System.out.println("");
-查看用CTRL + J. /插入代码模板(Ctrl+J ) 
-Ctrl+X剪切行 
+psvm sout 都是快捷键。psvm，回车。sout，回车。
+还有更多函数补全快捷键：fori（循环）/ifn /inn /soutp=System.out.println("");/soutv （value变量）
+查看用CTRL + J.即插入代码模板(Ctrl+J ) 
+Ctrl+X剪切行 ctrl + d 复制本行
 Ctrl + C    复制光标所在行
 https://blog.csdn.net/Teacher_Lee_ZZSXT/article/details/79242612 常用快捷键
 itar 生成array for代码块
+https://blog.csdn.net/LY_Dengle/article/details/78558265  IDEA快捷生成常用代码
+好用的快捷键，直接用IDEA    Templates代码模板
+精准搜索
+Ctrl+F 代码格式整理，代码格式化就是代码很乱时使用idea进行代码有规范的现实
+File | Settings | Editor | General | Code Completion（代码提示）
+debug： F7 进到嵌套方法内部  F8 不进嵌套  F9断点跳跃
