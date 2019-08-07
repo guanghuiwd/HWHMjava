@@ -8,4 +8,24 @@ int[] arr 定义一个int类型的数组，数组名arr
 数组越界/空指针异常
 通用的遍历格式for(;x<arr.length;){}
 数组最大值：for (int x=1;x<arr.length;x++){if(arr[x]>max){max = arr[x];}}
-方法概述：method，代码块组织成代码集
+方法：
+method，代码块组织成代码集 
+方法定义和调用：public static void XXX（）{}
+带参方法调用。//再注意Java中不可以参数重复的再赋值，防止问题。
+形参和实参，
+形参：变量定义的格式（方法定义中的参数：public static void isEven(int number) ）。
+实参：使用的变量和常量（方法调用中的参数：isEven(number)
+调用方法的时候，要什么类型给什么类型。
+带返回值方法调用，public static boolean getMax() 推荐用相同类型去赋值一下
+1、方法不可嵌套定义（平级） 2、void无返回值，可以用return；（return也是方法结束标志后面unreachable）
+public static 修饰符。
+明确方法的返回值，明确参数
+方法重载：同一个类中，多个方法的关系。方法名相同和参数类型/数量不同，和返回值无关。
+调用时候，java虚拟机会自动判定同名方法。
+//默认小数都用double来表示，所以如果要用float的话，则应该在其后加上f
+//区别1：java中的单引号表示字符，java中的双引号是字符串。 区别2：单引号引的数据一般是char类型的；双引号引的数据是String类型的。
+方法参数传递基本类型：
+对基本类型的参数，形式参数改变，不影响实际参数的值。方法change（）中 number消失，不改变main（）中输出number的值。/都在栈内存里面
+方法参数传递引用类型：
+如数组。int[] arr 这个存的是地址。 改变了堆内存里面的数组元素的值。形参改变影响实参的值。
+System.out.println();本身有换行作用
