@@ -11,4 +11,8 @@ IDEA中删除模块，要在文件夹自己删除模块
 
 psvm，回车。sout，回车。
 还有更多函数补全快捷键：fori（循环）/ifn /inn /soutp=System.out.println("");
-查看用CTRL + J.  
+查看用CTRL + J. /插入代码模板(Ctrl+J ) 
+Ctrl+X剪切行 
+Ctrl + C    复制光标所在行
+https://blog.csdn.net/Teacher_Lee_ZZSXT/article/details/79242612 常用快捷键
+itar 生成array for代码块
