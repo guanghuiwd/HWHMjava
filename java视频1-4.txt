@@ -1,0 +1,5 @@
+String 
+API 应用程序编程接口
+使用帮助文档，API
+调用方法时，自动补全接受返回值：快捷键符合逻辑，CTRL + alt + V
+java.lang包 说明不用导包。String创建后不能更改。
