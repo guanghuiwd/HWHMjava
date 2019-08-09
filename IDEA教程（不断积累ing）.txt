@@ -7,3 +7,13 @@ psvm sout 都是快捷键
 ctrl + d 复制本行
 F7 进到嵌套方法内部  F8 不进嵌套  F9断点跳跃
 改类的名字：单击鼠标右键弹出列表菜单，选中“Refator” 。单击在右侧菜单中出现的“Rename”，或者按Shift+F6。
+
+博客：
+快捷键实用
+https://blog.csdn.net/u013940162/article/details/79947323
+快捷键大全
+https://blog.csdn.net/Teacher_Lee_ZZSXT/article/details/79242612
+IDEA理解
+https://www.cnblogs.com/cag2050/p/7235858.html
+自动代码
+https://blog.csdn.net/LY_Dengle/article/details/78558265
