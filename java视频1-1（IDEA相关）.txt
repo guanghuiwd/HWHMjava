@@ -22,6 +22,7 @@ itar 生成array for代码块
 https://blog.csdn.net/LY_Dengle/article/details/78558265  IDEA快捷生成常用代码
 好用的快捷键，直接用IDEA    Templates代码模板
 精准搜索
-Ctrl+F 代码格式整理，代码格式化就是代码很乱时使用idea进行代码有规范的现实
+Ctrl+ 代码格式整理，代码格式化就是代码很乱时使用idea进行代码有规范的现实
 File | Settings | Editor | General | Code Completion（代码提示）
 debug： F7 进到嵌套方法内部  F8 不进嵌套  F9断点跳跃
+Ctrl + W 复制模块前的选中。
