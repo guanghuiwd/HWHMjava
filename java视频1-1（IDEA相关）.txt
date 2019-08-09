@@ -5,12 +5,15 @@ src：src是source的缩写，这里是源文件的意思。 iml是配置文件�
 内容辅助键：CTRL alt space
 快捷键对IDEA很重要！：
 注释：选中它！ + CTRL + /  多行，CTRL + shift + / 再来一次就是取消
+CTRL+ shift + F（出搜索框搜索，点别的地方消失
 格式化：CTRL alt L （就是给各种地方加空格，看起来好看
 IDEA中删除模块，要在文件夹自己删除模块
 导入模块：直接import，然后next和ok就好。setup就好。
 
 psvm sout 都是快捷键。psvm，回车。sout，回车。
-还有更多函数补全快捷键：fori（循环）/ifn /inn /soutp=System.out.println("");/soutv （value变量）
+还有更多函数补全快捷键：fori（循环）/ifn /inn /soutp（打印数组）/soutv （value变量）
+10.fori = for (int i = 0; i < 10; i++) {}
+
 查看用CTRL + J.即插入代码模板(Ctrl+J ) 
 Ctrl+X剪切行 ctrl + d 复制本行
 Ctrl + C    复制光标所在行
