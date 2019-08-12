@@ -35,3 +35,4 @@ ArrayList<Student> array = new ArrayList<>(); 就建好集合了。
 小项目 学生管理系统，定义学生类。
 类构建：Alt + Insert IDEA帮我们自动生成构造方法和get/set的（成员）方法
 System.exit(0);//jvm退出！
+P143
