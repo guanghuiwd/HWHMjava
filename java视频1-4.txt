@@ -26,4 +26,12 @@ sb.reverse();
 /两者相互转化；String s = sb.toString();StringBuilder sb2 = new StringBuilder(s);
 Scanner sc = new Scanner(System.in);//有括号的内容System.in不要忘记。
 new StringBuilder(s)本身是匿名对象，对象调用方法
-ArrayList可调整大小的数组类型实现
+Java数组长度不可变，集合长度可变。集合类很多的。
+ArrayList可调整大小的数组类型实现。
+ArrayList<Student> array = new ArrayList<>(); 就建好集合了。
+集合ArrayList存储字符串对象并遍历。
+集合有size个数，没有length。数组有length
+集合是引用类型，所以void，引用类型都是void
+小项目 学生管理系统，定义学生类。
+类构建：Alt + Insert IDEA帮我们自动生成构造方法和get/set的（成员）方法
+System.exit(0);//jvm退出！
