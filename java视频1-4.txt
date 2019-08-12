@@ -16,4 +16,14 @@ new String就是一个新的地址 作为地址的地址s1、s2不一样值，�
 对string类，比较方法是 equals（），比较是不是相同
 用一个加 } 的方式就是可以自动缩进内部里面的代码
 字符串的遍历：line.length()可以直接用。 charAt（i）功能是关键。
-P123
+line.length() 长度
+定义一个方法：就是public static是方法；main方法；
+String与String builder：
+string会浪费一些空间，所以用stringbuilder，内容可以变化，用于字符串拼接等
+StringBuilder sb2 = new StringBuilder("你好！");
+sb.append(10086).append(10010);   //链式编程
+sb.reverse();
+/两者相互转化；String s = sb.toString();StringBuilder sb2 = new StringBuilder(s);
+Scanner sc = new Scanner(System.in);//有括号的内容System.in不要忘记。
+new StringBuilder(s)本身是匿名对象，对象调用方法
+ArrayList可调整大小的数组类型实现
