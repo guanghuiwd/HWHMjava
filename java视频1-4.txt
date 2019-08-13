@@ -35,4 +35,7 @@ ArrayList<Student> array = new ArrayList<>(); 就建好集合了。
 小项目 学生管理系统，定义学生类。
 类构建：Alt + Insert IDEA帮我们自动生成构造方法和get/set的（成员）方法
 System.exit(0);//jvm退出！
-P143
+\t  其实就是tab键的意思
+java太长换行：直接写就行了。直接写就行了，没什么特别的符号
+array.remove(0) 删除array第一个。
+在循环里面的定义，外面就访问不到。把它定义到循环外面String sid = x;到String sid;{ sid=x; 
