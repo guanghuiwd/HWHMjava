@@ -18,7 +18,7 @@ https://www.cnblogs.com/cag2050/p/7235858.html
 自动代码
 https://blog.csdn.net/LY_Dengle/article/details/78558265
 
-itli  生成List的遍历
-"string".sout   输出字符串   s1.sout 输出变量值 //student.getName() + "," + student.getAge().sout
+itli  生成List的遍历，生成集合遍历，集合遍历很常用  
+重要："string".sout   输出字符串   s1.sout 输出变量值 //student.getName() + "," + student.getAge().sout
 
 在外面加循环或者加判断很容易，直接在该加的地方加就好不用考虑后面的缩进。格式会自动缩进，如 while（true）{   }
