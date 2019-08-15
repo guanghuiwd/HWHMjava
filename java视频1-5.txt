@@ -15,5 +15,17 @@ public class ZI extends FU{}  父类：基类  子类：派生类
 类中成员方法：访问修饰符，public /默认（空） /private ，依次权限变小。
 private父类中方法不能被重写。/ 子类权限仅大于等于父类，正确
 类只能单类继承。  /多层继承ok
+所有类中构造方法 /成员方法都要有（）小括号。 如 public void teach(){
+一旦我们在子类中写了带参的构造方法，系统不会提供无参构造方法。 
 
+我们建包：包是文件夹，对类分类管理  //package com.it;
 import com.itheima02.Student; 就可以跨包码代码
+可以带包写，是前缀一样。但麻烦。  alt + enter 会根据搜索全自动导包
+修饰符：
+权限修饰符 ：public 默认 protected private //不同包无关类 不同包子类 包内子类无关类 同一个类中
+状态修饰符：final 最终态   static 静态
+final method()/xxx()   final int/xxx   final class  不能重写 不能再赋值 不能继承
+final修饰局部变量： final修饰引用类型时  是说地址值不能变（地址中的内容还是可以变化的）
+static修饰成员方法和成员变量。  static是共享的意思  被类的所有对象共享。 对static变量推荐通过类名调用
+非静态的成员方法，有无static都可访问    静态成员方法：只可访问静态成员
+模块-src-包-类-一变量两方法 or psvm
