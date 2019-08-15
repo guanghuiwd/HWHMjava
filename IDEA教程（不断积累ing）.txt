@@ -1,5 +1,6 @@
 IDEA提示好
 好用的快捷键，直接用IDEA    Templates代码模板
+模块-src-包-类-一变量两方法 or psvm
 精准搜索
 代码格式整理，代码格式化就是代码很乱时使用idea进行代码有规范的现实
 File | Settings | Editor | General | Code Completion（代码提示）
