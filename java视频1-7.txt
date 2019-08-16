@@ -1,0 +1,14 @@
+常用API：
+Application Programming Interface，缩写：API；又称为应用程序编程接口
+Math类：
+有成员变量，就是字段，也叫属性
+有成员方法。都用static修饰。可以类名直接访问，所以不需要构造方法。
+/ Math. 可以取整，可以四舍五入
+System类：
+System.exit(0);//正常终止。 System.currentTimeMillis();//和1970.1.1相差的毫秒值
+Object类：
+是类层次结构的根：
+Object类中的toString方法通常重写： alt+Insert 点击toString 生成public String toString(){ //重写
+同理：equals    public boolean equals(Object o) { //重写比较内容
+
+Arrays:
