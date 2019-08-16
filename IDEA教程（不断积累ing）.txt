@@ -10,6 +10,8 @@ F7 进到嵌套方法内部  F8 不进嵌套  F9断点跳跃
 改类的名字：单击鼠标右键弹出列表菜单，选中“Refator” 。单击在右侧菜单中出现的“Rename”，或者按Shift+F6。
 
 博客：
+最强自动代码+快捷键：（如果记不清了，敲Ctrl+j，然后输几个模糊的字母，有提示）
+https://www.jianshu.com/p/8d0d2c86ff50
 快捷键实用
 https://blog.csdn.net/u013940162/article/details/79947323
 快捷键大全
@@ -22,6 +24,11 @@ https://blog.csdn.net/LY_Dengle/article/details/78558265
 itli  生成List的遍历，生成集合遍历，集合遍历很常用  
 itar  生成int[]数组的遍历，数组遍历常用
 重要："string".sout   输出字符串   s1.sout 输出变量值 //student.getName() + "," + student.getAge().sout
+userList.for //增强for遍历名为userList的集合
+ifn、xxx.nu  //if(xxx == null)
+inn、xxx.nn  //if(xxx != null)
+prsf  //private static final
+psf、psfi、psfs  //public static final (int、String)
 
 在外面加循环或者加判断很容易，直接在该加的地方加就好不用考虑后面的缩进。格式会自动缩进，如 while（true）{   }
 红色下划线！是表明有错误的意思。
