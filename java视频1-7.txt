@@ -16,4 +16,5 @@ Arrays:  查看信息都是选中 ctrl+B 三个内都有private Arrays() {} 无�
 基本类型包装类：
 int类型的包装类Integer。基本数据类型也封装成对象。作用：基本数据类型与字符串之间转换
 （一般；类名大写）
-int转为String，valueOf方法
+int转为String。valueOf方法：String s = String.valueOf(10);
+String转int。int y = Integer.parseInt(t);
