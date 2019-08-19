@@ -1,5 +1,0 @@
-https://www.imooc.com/video/6843 一个小模版
-1.导入jar（右键Build Path --> Add Libraries --> Junit --> Junit4）
-2.新建测试类：右键需测试类所在包new --> JUnit Test Case参照自动生成的测试类模板（可删除），写自己的测试方法
-3.运行测试：测试文件右键 --> Run as JUnit Test
-
