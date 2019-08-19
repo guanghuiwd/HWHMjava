@@ -11,3 +11,5 @@ https://www.cnblogs.com/qiantuwuliang/archive/2010/12/29/1920723.html （Tortois
 pull
 
 https://blog.csdn.net/Tracycater/article/details/73477258 （idea 文件名颜色所代表的含义
+
+类是首字母大写，类中方法第一个首字母是小写后面是大写。
