@@ -22,3 +22,7 @@ target存放的是单个Module的编译结果。 
 在Modules中选择某一个模块后，在右侧的Paths选项卡中可以设置该模块的Compiler output目录。
 将out改成target后，发现项目显示的文件夹还是out，此时再加一步：Build --- Rebuild Project 重新编译一下项目target。
 https://blog.csdn.net/qq_26591517/article/details/80731088
+
+https://blog.csdn.net/antony9118/article/details/51736135 Junit教程
+
+https://blog.csdn.net/u011138533/article/details/52165577
