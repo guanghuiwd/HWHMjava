@@ -14,3 +14,6 @@ Object类中的toString方法通常重写： alt+Insert 点击toString 生成pub
 Arrays:  查看信息都是选中 ctrl+B 三个内都有private Arrays() {} 无参构造方法
 工具类，工具类设计思想：构造方法用private修饰（防止外界创建对象），成员方法用public static修饰（类名访问成员方法）
 基本类型包装类：
+int类型的包装类Integer。基本数据类型也封装成对象。作用：基本数据类型与字符串之间转换
+（一般；类名大写）
+int转为String，valueOf方法
