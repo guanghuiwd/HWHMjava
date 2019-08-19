@@ -18,3 +18,8 @@ int类型的包装类Integer。基本数据类型也封装成对象。作用：�
 （一般；类名大写）
 int转为String。valueOf方法：String s = String.valueOf(10);
 String转int。int y = Integer.parseInt(t);
+P204完 后面不看。看一眼最后的模块化。
+
+模块化：
+modules 模块
+exports com.it01; requires MyOne; 最后一章也和工作无关，略看！
