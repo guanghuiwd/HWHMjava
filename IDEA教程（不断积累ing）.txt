@@ -41,3 +41,4 @@ alt + Insert 可以直接写（自己写的类的）构造方法。
 选取多行，直接按Tab，就可以多行缩进了！
 在idea中新建package没有package选项：标记错了就标记回来，文件夹 右键 --> Mark Directory as --> Source Root
 File–>project Structure–>SDK  进行增加和删除SDK操作
+alt + Insert 选第一个，可以抛出异常。
