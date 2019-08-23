@@ -23,6 +23,7 @@ https://blog.csdn.net/LY_Dengle/article/details/78558265
 
 itli  生成List的遍历，生成集合遍历，集合遍历很常用               ！！！
 itar  生成int[]数组的遍历，数组遍历常用                         ！！！
+CTRL + alt + V 是自动生成变量名字的方法。
 重要："string".sout   输出字符串   s1.sout 输出变量值 //student.getName() + "," + student.getAge().sout
 userList.for //增强for遍历名为userList的集合
 ifn、xxx.nu  //if(xxx == null)
