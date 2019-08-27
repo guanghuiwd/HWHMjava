@@ -1,3 +1,4 @@
+comparator//比较器
 数据结构
 数组：查询快，增删慢。
 链表：增删快，查询慢。（对比数组）
@@ -10,4 +11,9 @@ HashSet底层结构是哈希表，不能用普通for遍历，但可以用迭代�
 hashset保证元素唯一性，重写了hashcode（）和equals（）
 类中重写hashcode（）和equals（）表可以唯一。
 哈希表。
-LinkedHashSet
+LinkedHashSet   SET保证唯一；linked保证顺序性；
+TreeSet 强加自然排序 a到z或者比较器排序接口
+没有带索引，都不可以用普通for遍历。
+<>中必须是引用类型，int不可，Integer可。（包装类）
+comparable 自然排序接口   this.age 是后面的 s.age是前面的  compareTo正值放后面
+？true：false   P247
