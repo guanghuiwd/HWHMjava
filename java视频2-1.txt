@@ -1,4 +1,5 @@
 P205
+exception//异常  Boolean//布尔  element//元素 
 spilt 
 自动装箱和自动拆箱。
 java.util 下的date类
@@ -6,5 +7,15 @@ java.util 下的date类
 日历类Calender 
 java异常，就停掉。
 try{}catch{}  e.printStackTrace();  配合：让程序执行下去/输出异常信息
-编译时异常 / 运行时异常
-P220
+编译时异常 / 运行时异常   
+自定义异常。  throws
+
+集合：
+map是双列    学习接口，使用只能是实现类
+Collection 单列：
+Boolean 是说返回值类型是布尔值   
+iterator 迭代器    集合专业遍历方式  返回类型就是迭代器Iterator
+得到集合的迭代器就可以遍历了。
+  Iterator<String> iterator = c.iterator();
+List 集合特点：有序/可以重复
+P228
