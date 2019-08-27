@@ -1,5 +1,5 @@
 P205
-exception//异常  Boolean//布尔  element//元素 
+exception//异常  Boolean//布尔  element//元素   previous    Implement//实现 
 spilt 
 自动装箱和自动拆箱。
 java.util 下的date类
@@ -18,4 +18,6 @@ iterator 迭代器    集合专业遍历方式  返回类型就是迭代器Itera
 得到集合的迭代器就可以遍历了。
   Iterator<String> iterator = c.iterator();
 List 集合特点：有序/可以重复   add get set remove 有序号了
-并发修改异常
+并发修改异常   iterator不能改别的，   System.out.print(s);
+ListIterator  list集合特有迭代器
+增强for循环。
