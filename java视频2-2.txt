@@ -24,5 +24,8 @@ Random generate = new Random();int nextInt = generate.nextInt(500);
 泛型：参数化类型   泛型类 泛型方法 泛型接口
 我们一直用的< >尖括号里面是泛型，类型可以看成是形参。    具体用时候是实参，必是引用类型。
 泛型好处多。public class GenericLei<T> {}       public <T> void show(T t) {}
-List<?> List<? extends  >  List<? super  >
+类型通配符：List<?> List<? extends  >  List<? super  >
 List<?> l = new ArrayList<Object>();
+可变参数：int... a   可变都封装到数组里，[I 的标识。 可变参数放最后
+MAP：map是接口不能直接创建对象，实现类HashMap
+map可以看成夫妻对的集合。
