@@ -1,4 +1,4 @@
-comparator//比较器
+comparator//比较器  cast//转换
 数据结构
 数组：查询快，增删慢。
 链表：增删快，查询慢。（对比数组）
@@ -16,4 +16,7 @@ TreeSet 强加自然排序 a到z或者比较器排序接口
 没有带索引，都不可以用普通for遍历。
 <>中必须是引用类型，int不可，Integer可。（包装类）
 comparable 自然排序接口   this.age 是后面的 s.age是前面的  compareTo正值放后面
-？true：false   P247
+？true：false  三目运算符 
+自然排序和比较器排序
+
+        Random generate = new Random();int nextInt = generate.nextInt(500);
