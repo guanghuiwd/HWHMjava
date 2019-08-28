@@ -28,4 +28,7 @@ Random generate = new Random();int nextInt = generate.nextInt(500);
 List<?> l = new ArrayList<Object>();
 可变参数：int... a   可变都封装到数组里，[I 的标识。 可变参数放最后
 MAP：map是接口不能直接创建对象，实现类HashMap
-map可以看成夫妻对的集合。
+map可以看成夫妻对的集合。  遍历一：老公找老婆（键找值） 遍历二：结婚证法
+遍历方法一：map.keySet(); 遍历二: map.entrySet()
+集合嵌套案例。
+统计字符串中每个字符出现的次数
