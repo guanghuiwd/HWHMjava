@@ -46,3 +46,4 @@ alt + enter 可以选择处理异常的方式
 ALT + 7 可以打开一个窗口，可以看到类的所有信息。
 itit  生成iterator迭代     iter 生成增强for循环 ！！！
 shift + enter 直接到下一行格式
+会提示alt + enter 导包。
