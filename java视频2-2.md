@@ -1,4 +1,4 @@
-comparator//比较器  cast//转换
+comparator//比较器  cast//转换  generic//通用
 数据结构
 数组：查询快，增删慢。
 链表：增删快，查询慢。（对比数组）
@@ -18,5 +18,11 @@ TreeSet 强加自然排序 a到z或者比较器排序接口
 comparable 自然排序接口   this.age 是后面的 s.age是前面的  compareTo正值放后面
 ？true：false  三目运算符 
 自然排序和比较器排序
+生成随机数：
+Random generate = new Random();int nextInt = generate.nextInt(500);
 
-        Random generate = new Random();int nextInt = generate.nextInt(500);
+泛型：参数化类型   泛型类 泛型方法 泛型接口
+我们一直用的< >尖括号里面是泛型，类型可以看成是形参。    具体用时候是实参，必是引用类型。
+泛型好处多。public class GenericLei<T> {}       public <T> void show(T t) {}
+List<?> List<? extends  >  List<? super  >
+List<?> l = new ArrayList<Object>();
