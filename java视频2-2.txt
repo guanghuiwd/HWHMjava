@@ -1,4 +1,4 @@
-comparator//比较器  cast//转换  generic//通用
+comparator//比较器  cast//转换  generic//通用  collections//集合
 数据结构
 数组：查询快，增删慢。
 链表：增删快，查询慢。（对比数组）
@@ -34,3 +34,5 @@ map可以看成夫妻对的集合。  遍历一：老公找老婆（键找值）
 统计字符串中每个字符出现的次数
 HasMap：新建一个key，此时value不存在，是有默认value的。是null
 TreeMap比hashmap进化就是有两种排序。
+Collection 是单列集合的顶层接口。collections是具体的类。
+ArrayList和hashmap和treemap最常用！
