@@ -36,3 +36,6 @@ HasMap：新建一个key，此时value不存在，是有默认value的。是null
 TreeMap比hashmap进化就是有两种排序。
 Collection 是单列集合的顶层接口。collections是具体的类。
 ArrayList和hashmap和treemap最常用！
+！！！ 对java，创建这个思路 等同于 new 操作 / 写一个实际数组，集合等操作
+      对java，存储这个操作 对应于 hm.put()/array.add()等的操作
+      定义方法：就是写一个方法“小大大写（）”
