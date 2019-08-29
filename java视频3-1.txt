@@ -1,0 +1,4 @@
+IO流
+File：
+mkdirs就是创建目录，没有文件的 f1.createNewFile()创建文件
+File f2 = new File("D:\\PartThree");String[] strArray = f2.list();
